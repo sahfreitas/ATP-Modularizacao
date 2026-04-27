@@ -1,0 +1,14 @@
+C:\Users\1442428\Downloads\ATP-Classes\bin\Debug\net9.0\ATP-Classes.exe
+C:\Users\1442428\Downloads\ATP-Classes\bin\Debug\net9.0\ATP-Classes.deps.json
+C:\Users\1442428\Downloads\ATP-Classes\bin\Debug\net9.0\ATP-Classes.runtimeconfig.json
+C:\Users\1442428\Downloads\ATP-Classes\bin\Debug\net9.0\ATP-Classes.dll
+C:\Users\1442428\Downloads\ATP-Classes\bin\Debug\net9.0\ATP-Classes.pdb
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ATP-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ATP-Classes.AssemblyInfoInputs.cache
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ATP-Classes.AssemblyInfo.cs
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ATP-Classes.csproj.CoreCompileInputs.cache
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ATP-Classes.dll
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\refint\ATP-Classes.dll
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ATP-Classes.pdb
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ATP-Classes.genruntimeconfig.cache
+C:\Users\1442428\Downloads\ATP-Classes\obj\Debug\net9.0\ref\ATP-Classes.dll
