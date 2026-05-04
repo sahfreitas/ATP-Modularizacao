@@ -1,0 +1,14 @@
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\Modularizacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\Modularizacao.AssemblyInfoInputs.cache
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\Modularizacao.AssemblyInfo.cs
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\Modularizacao.csproj.CoreCompileInputs.cache
+C:\Users\1442428\Downloads\Modularizacao\bin\Debug\net9.0\Modularizacao.exe
+C:\Users\1442428\Downloads\Modularizacao\bin\Debug\net9.0\Modularizacao.deps.json
+C:\Users\1442428\Downloads\Modularizacao\bin\Debug\net9.0\Modularizacao.runtimeconfig.json
+C:\Users\1442428\Downloads\Modularizacao\bin\Debug\net9.0\Modularizacao.dll
+C:\Users\1442428\Downloads\Modularizacao\bin\Debug\net9.0\Modularizacao.pdb
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\Modularizacao.dll
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\refint\Modularizacao.dll
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\Modularizacao.pdb
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\Modularizacao.genruntimeconfig.cache
+C:\Users\1442428\Downloads\Modularizacao\obj\Debug\net9.0\ref\Modularizacao.dll
